@@ -1,0 +1,8 @@
+nav, header, .opciones, footer{
+    max-width: 93%;
+    margin: auto;
+}
+header
+{
+    background-color: darkorange;
+}
