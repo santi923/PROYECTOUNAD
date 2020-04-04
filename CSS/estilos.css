@@ -6,3 +6,21 @@ header
 {
     background-color: darkorange;
 }
+#video,video{
+    margin: 0 auto;
+   padding-top: 30px;
+    width: 650px;
+    height: 350px;
+
+}
+#centrar{
+    background-color: dodgerblue;
+    width: 400px;
+    margin: 0px auto;
+    padding: 7px;
+}
+#texto{
+    background-color: dodgerblue;
+    width: 190px;
+    margin: 0px auto; 
+}
