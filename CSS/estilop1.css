@@ -1,8 +1,93 @@
-nav, header, .opciones, footer{
-    max-width: 93%;
-    margin: auto;
+#principal{
+	width: 900px;
+	height: auto; overflow: hidden;
+	border: 0px solid #000;
+	margin: auto;
+	
+
 }
-header
+header{
+	width: 900px;
+	height: 157px;
+	border: 0px solid #000;
+	background-color: rgb(252, 190, 5);
+	
+}
+#slide{
+	width:  500px;
+	height: 50px;
+	border: 0px solid #000;
+
+}
+
+#logo {
+	width: 500px;
+	height: 100px;
+	border: 0px solid #000;
+
+}
+.menu{
+	width: 900px;
+	height: 40px;
+	border: 0px solid #ccc;
+	float: right;
+	
+	
+}
+.menu ul li{
+	list-style: none;
+	float: left;
+	
+}
+.menu ul li a{
+	text-decoration: none;
+	padding: 10px 18px;
+	border: 1px solid #ccc;
+	color: mintcream;
+	background-color: rgb(14, 87, 116);
+	
+}
+#categoria{
+	width: 900px;
+	height: auto; overflow: hidden;
+	border: 0px solid;
+	margin-top: 100px;
+}
+.uno{
+	margin-left: 18px;
+	margin-right: 18px;
+	width: 280px;
+	height: 460px; 
+	border: 0px solid #ccc;
+	float: left;
+	text-align: justify;
+	padding: 5px;
+}
+.dos{
+	margin-left: 18px;
+	margin-right: 18px;
+}
+footer{
+	text-align: center;
+}
+#GRUPAL{
+	width: 900px;
+	height: auto; overflow: hidden;
+	border: 0px solid;
+	margin-top: 100px;
+}
+.primero
 {
-    background-color: darkorange;
+	margin-left: 18px;
+	margin-right: 18px;
+	width: 280px;
+	height: 460px; 
+	border: 0px solid #ccc;
+	float: left;
+	text-align: center;
+	padding: 5px;
+}
+.segundo{
+	margin-left: 18px;
+	margin-right: 18px;
 }
