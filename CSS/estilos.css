@@ -1,10 +1,30 @@
-nav, header, .opciones, footer{
+nav, header, .opciones{
     max-width: 93%;
     margin: auto;
 }
+#logoinicio{
+	width: 900px;
+	height: auto; overflow: hidden;
+	border: 0px solid #000;
+	margin: auto;
+	
+
+}
+#logo{
+	width:  500px;
+	height: 50px;
+    border: 0px solid #000;
+    
+
+}
+#h1{
+	width: 500px;
+	height: 100px;
+    border: 0px solid #000;
+}
 header
 {
-    background-color: darkorange;
+    background-color: rgb(252, 190, 5);
 }
 #video,video{
     margin: 0 auto;
@@ -14,13 +34,43 @@ header
 
 }
 #centrar{
-    background-color: dodgerblue;
-    width: 400px;
+    background-color: rgb(252, 190, 5);
+    width: 350px;
     margin: 0px auto;
     padding: 7px;
 }
 #texto{
-    background-color: dodgerblue;
+    background-color: rgb(252, 190, 5);
     width: 190px;
     margin: 0px auto; 
+}
+.menu{
+	width: 900px;
+	height: 40px;
+	border: 0px solid #ccc;
+	float: left ;
+	
+	
+}
+.menu ul li{
+	list-style: none;
+	float: left;
+	
+}
+.menu ul li a{
+	text-decoration: none;
+	padding: 10px 18px;
+	border: 1px solid #ccc;
+	color: mintcream;
+    background-color: rgb(14, 87, 116);
+}
+footer{
+    text-align: center;
+}
+#video2{
+    margin: 0 auto;
+   padding-top: 30px;
+    width: 650px;
+    height: 350px;
+
 }
