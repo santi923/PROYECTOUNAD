@@ -24,7 +24,10 @@ nav, header, .opciones{
 }
 header
 {
-    background-color: rgb(252, 190, 5);
+    width: 900px;
+	height: 157px;
+	border: 0px solid #000;
+	background-color: rgb(252, 190, 5);
 }
 #video,video{
     margin: 0 auto;
