@@ -45,8 +45,10 @@ header{
 	border: 1px solid #ccc;
 	color: mintcream;
 	background-color: rgb(14, 87, 116);
+
 	
 }
+
 #categoria{
 	width: 900px;
 	height: auto; overflow: hidden;
@@ -54,7 +56,8 @@ header{
 	margin-top: 100px;
 }
 .uno{
-	margin-left: 18px;
+	max-width: 80%;
+	margin-left: 100px;
 	margin-right: 18px;
 	width: 280px;
 	height: 460px; 
@@ -90,4 +93,23 @@ footer{
 .segundo{
 	margin-left: 18px;
 	margin-right: 18px;
+}
+
+.juan{
+	max-width: 80%;
+	margin-left:300px;
+	margin-right: 18px;
+	width: 280px;
+	height: 460px; 
+	border: 0px solid #ccc;
+	float: left;
+	text-align: justify;
+	padding: 5px;
+}
+#texto {
+	
+	max-width: 59%;
+	margin: auto;
+	
+
 }
