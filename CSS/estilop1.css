@@ -122,3 +122,14 @@ li a, boton{
 li a:hover{
 	background-color: #ccc;
 }
+
+.fotos{
+	margin-left: 120px;
+	margin-right: 18px;
+	width: 280px;
+	height: 460px; 
+	border: 0px solid #ccc;
+	float: left;
+	text-align: justify;
+	padding: 5px;
+}
